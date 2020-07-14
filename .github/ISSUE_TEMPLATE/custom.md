@@ -1,8 +1,9 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: 'type(optional-scope): description of a task'
-labels: ''
+title: 'custom: description'
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
+  invalid, question, wontfix
 assignees: shoichiaizawa
 
 ---
