@@ -1,0 +1,236 @@
+[
+  {
+    "name": "duplicate",
+    "color": "ededed",
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "name": "help wanted",
+    "color": "e99695",
+    "description": "Extra attention is needed"
+  },
+  {
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Good for newcomers",
+    "aliases": [
+      "beginner",
+      "beginners",
+      "beginner-friendly",
+      "good-starter-issue",
+      "good for beginner",
+      "good for beginners",
+      "starter",
+      "starter-issue"
+    ]
+  },
+  {
+    "name": "priority: critical",
+    "color": "ee0701",
+    "description": ""
+  },
+  {
+    "name": "priority: high",
+    "color": "d93f0b",
+    "description": ""
+  },
+  {
+    "name": "priority: medium",
+    "color": "fbca04",
+    "description": ""
+  },
+  {
+    "name": "priority: low",
+    "color": "0e8a16",
+    "description": ""
+  },
+  {
+    "name": "status: abandoned",
+    "color": "000000",
+    "description": "The issue or pull request will not be worked on",
+    "aliases": [
+      "abandoned",
+      "invalid",
+      "wontfix"
+    ]
+  },
+  {
+    "name": "status: blocked",
+    "color": "ee0701",
+    "description": "Progress on the issue is blocked",
+    "aliases": [
+      "blocked"
+    ]
+  },
+  {
+    "name": "status: in progress",
+    "description": "Work in progress",
+    "color": "cccccc",
+    "aliases": [
+      "wip",
+      "WIP",
+      "work in progress"
+    ]
+  },
+  {
+    "name": "status: proposal",
+    "color": "d4c5f9",
+    "description": "Request for comments",
+    "aliases": [
+      "discussion",
+      "idea",
+      "proposal",
+      "rfc"
+    ]
+  },
+  {
+    "name": "status: PR welcome",
+    "color": "2e7733",
+    "description": "Welcome to pull request",
+    "aliases": [
+      "status: ready for PR"
+    ]
+  },
+  {
+    "name": "status: PR review needed",
+    "color": "fbca04",
+    "description": "Request for review comments and approvals/disapprovals"
+  },
+  {
+    "name": "status: need more info",
+    "color": "f9c90a",
+    "description": "Lacks enough info to make progress"
+  },
+  {
+    "name": "type: BREAKING CHANGE",
+    "color": "b60205",
+    "description": "Includes Breaking Changes",
+    "aliases": [
+      "breaking",
+      "breaking change",
+      "BREAKING CHANGE",
+      "breaking-change",
+      "BREAKING-CHANGE"
+    ]
+  },
+  {
+    "name": "type: feat",
+    "color": "1d76db",
+    "description": "A new feature or request",
+    "aliases": [
+      "enhancement",
+      "feat",
+      "feature",
+      "feature request"
+    ]
+  },
+  {
+    "name": "type: bug",
+    "color": "d73a4a",
+    "description": "A bug or bug fix",
+    "aliases": [
+      "bug",
+      "bugfix",
+      "bug fix",
+      "fix",
+      "patch"
+    ]
+  },
+  {
+    "name": "type: docs",
+    "color": "006b75",
+    "description": "Documentation only changes",
+    "aliases": [
+      "doc",
+      "docs",
+      "document",
+      "documents",
+      "documentation"
+    ]
+  },
+  {
+    "name": "type: style",
+    "color": "f9c0f7",
+    "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+    "aliases": [
+      "format"
+    ]
+  },
+  {
+    "name": "type: refactor",
+    "color": "fbca04",
+    "description": "A code change that neither fixes a bug nor adds a feature",
+    "aliases": [
+      "refactor",
+      "refactoring"
+    ]
+  },
+  {
+    "name": "type: perf",
+    "color": "8bc7e5",
+    "description": "A code change that improves performance",
+    "aliases": [
+      "refactor",
+      "refactoring"
+    ]
+  },
+  {
+    "name": "type: test",
+    "color": "257759",
+    "description": "Adding missing tests or correcting existing tests (jest, storybook)",
+    "aliases": [
+      "test",
+      "testing"
+    ]
+  },
+  {
+    "name": "type: build",
+    "color": "62bdc9",
+    "description": "Changes that affect the build system or external dependencies (npm, webpack, babel)",
+    "aliases": [
+      "deps"
+    ]
+  },
+  {
+    "name": "type: ci",
+    "color": "ffd412",
+    "description": "Changes to CI/CD configuration files and scripts (example scopes: Cloud Build, GitHub Actions, etc)",
+    "aliases": [
+      "actions",
+      "Actions",
+      "ci",
+      "CI",
+      "cloud build",
+      "Cloud Build",
+      "github actions",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "name": "type: chore",
+    "color": "8cea9c",
+    "description": "Other changes that don't modify src or test files"
+  },
+  {
+    "name": "type: revert",
+    "color": "c42562",
+    "description": "Reverts a previous commit"
+  },
+  {
+    "name": "type: maintenance",
+    "color": "abd406",
+    "description": "Repository maintenance",
+    "aliases": [
+      "greenkeeper",
+      "maintenance"
+    ]
+  },
+  {
+    "name": "type: question",
+    "color": "cc317c",
+    "description": "Further information is requested",
+    "aliases": [
+      "question"
+    ]
+  }
+]
