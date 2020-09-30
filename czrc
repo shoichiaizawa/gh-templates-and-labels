@@ -1,0 +1,49 @@
+{
+  "path": "cz-conventional-changelog",
+  "types": {
+    "feat": {
+      "description": "A new feature",
+      "title": "Features"
+    },
+    "fix": {
+      "description": "A bug fix",
+      "title": "Bug Fixes"
+    },
+    "docs": {
+      "description": "Documentation only changes",
+      "title": "Documentation"
+    },
+    "style": {
+      "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+      "title": "Styles"
+    },
+    "refactor": {
+      "description": "A code change that neither fixes a bug nor adds a feature",
+      "title": "Code Refactoring"
+    },
+    "perf": {
+      "description": "A code change that improves performance",
+      "title": "Performance Improvements"
+    },
+    "test": {
+      "description": "Adding missing tests or correcting existing tests (example scopes: jest, storybook)",
+      "title": "Tests"
+    },
+    "build": {
+      "description": "Changes that affect the build system or external dependencies (npm, webpack, babel)",
+      "title": "Builds"
+    },
+    "ci": {
+      "description": "Changes to our CI/CD configuration files and scripts (example scopes: Cloud Build, GitHub Actions, etc)",
+      "title": "CI/CD"
+    },
+    "chore": {
+      "description": "Other changes that don't modify src or test files",
+      "title": "Chores"
+    },
+    "revert": {
+      "description": "Reverts a previous commit",
+      "title": "Reverts"
+    }
+  }
+}
