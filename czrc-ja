@@ -1,0 +1,49 @@
+{
+  "path": "cz-conventional-changelog",
+  "types": {
+    "feat": {
+      "description": "機能追加",
+      "title": "機能追加"
+    },
+    "fix": {
+      "description": "バグ修正",
+      "title": "バグ修正"
+    },
+    "docs": {
+      "description": "ドキュメントの変更（例: README.md やその他のドキュメントファイルなど）",
+      "title": "ドキュメント"
+    },
+    "style": {
+      "description": "フォーマットの変更（コードの動作に影響しない内容: 空白文字、フォーマット、セミコロンなど）",
+      "title": "スタイル"
+    },
+    "refactor": {
+      "description": "リファクタリングのための変更（機能追加やバグ修正に当てはまらない内容）",
+      "title": "リファクタ"
+    },
+    "perf": {
+      "description": "パフォーマンスの改善のための変更",
+      "title": "パフォーマンス改善"
+    },
+    "test": {
+      "description": "テストコードの新規追加や既存のテストコード修正のための変更（例: jest、storybook など）",
+      "title": "テスト"
+    },
+    "build": {
+      "description": "ビルドシステムや外部依存に関する変更（例: npm、webpack、babel など）",
+      "title": "ビルド"
+    },
+    "ci": {
+      "description": "CI/CD 用の設定やスクリプトに関する変更（例: Cloud Build、GitHub Actions など）",
+      "title": "CI/CD"
+    },
+    "chore": {
+      "description": "その他の変更（ソースコードやテストコードの変更に当てはまらない内容）",
+      "title": "雑務"
+    },
+    "revert": {
+      "description": "リバートによる変更",
+      "title": "リバート"
+    }
+  }
+}
